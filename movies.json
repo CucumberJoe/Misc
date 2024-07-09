@@ -28,7 +28,7 @@
   "Products": [
     {
       "Id": "3a4f97a6-3206-4e59-8147-45c33f908b78",
-      "BrandId": 1,
+      "BrandID": 1,
       "ProductName": "Interstellar",
       "GraphicName": "interstellar.jpg",
       "CostPrice": 15.99,
@@ -39,7 +39,7 @@
     },
     {
       "Id": "66c8f4de-5f31-41b5-90b5-700638a29df8",
-      "BrandId": 1,
+      "BrandID": 1,
       "ProductName": "Forrest Gump",
       "GraphicName": "forrest_gump.jpg",
       "CostPrice": 13.99,
@@ -50,7 +50,7 @@
     },
     {
       "Id": "6ae16b23-75a7-48a6-ae08-daa73a2a859e",
-      "BrandId": 2,
+      "BrandID": 2,
       "ProductName": "Inception",
       "GraphicName": "inception.jpg",
       "CostPrice": 14.99,
@@ -61,7 +61,7 @@
     },
     {
       "Id": "ee53df4b-a8c7-4d36-86e4-3c4a2f36c2ef",
-      "BrandId": 2,
+      "BrandID": 2,
       "ProductName": "The Dark Knight",
       "GraphicName": "the_dark_knight.jpg",
       "CostPrice": 16.99,
@@ -72,7 +72,7 @@
     },
     {
       "Id": "ba7385d4-4a8f-4d1a-8af0-75805bab3b8b",
-      "BrandId": 3,
+      "BrandID": 3,
       "ProductName": "Avatar",
       "GraphicName": "avatar.jpg",
       "CostPrice": 18.99,
@@ -83,7 +83,7 @@
     },
     {
       "Id": "1be06270-6b5e-44b6-9969-ecf5e244f58a",
-      "BrandId": 4,
+      "BrandID": 4,
       "ProductName": "Jurassic Park",
       "GraphicName": "jurassic_park.jpg",
       "CostPrice": 14.99,
@@ -94,7 +94,7 @@
     },
     {
       "Id": "ca234a1a-2f7b-4aee-9431-4988a14f1534",
-      "BrandId": 5,
+      "BrandID": 5,
       "ProductName": "Spider-Man",
       "GraphicName": "spider_man.jpg",
       "CostPrice": 17.49,
