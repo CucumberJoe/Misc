@@ -1,27 +1,21 @@
 {
   "Brands": [
     {
-      "id": 1,
       "Name": "Paramount Pictures"
     },
     {
-      "id": 2,
       "Name": "Warner Bros"
     },
     {
-      "id": 3,
       "Name": "20th Century Fox"
     },
     {
-      "id": 4,
       "Name": "Universal Pictures"
     },
     {
-      "id": 5,
       "Name": "Columbia Pictures"
     },
     {
-      "id": 6,
       "Name": "Tristar Pictures"
     }
   ],
