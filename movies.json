@@ -68,5 +68,105 @@
     "QtyOnHand": 180,
     "QtyOnBackOrder": 22,
     "Description": "A 2002 American superhero film directed by Sam Raimi based on the Marvel Comics character of the same name."
+  },
+  {
+    "Brand": "Warner Bros",
+    "ProductName": "The Matrix",
+    "GraphicName": "the_matrix.jpg",
+    "CostPrice": 19.99,
+    "MSRP": 34.99,
+    "QtyOnHand": 250,
+    "QtyOnBackOrder": 40,
+    "Description": "A 1999 science fiction action film written and directed by the Wachowskis."
+  },
+  {
+    "Brand": "20th Century Fox",
+    "ProductName": "Alien",
+    "GraphicName": "alien.jpg",
+    "CostPrice": 14.49,
+    "MSRP": 27.99,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 15,
+    "Description": "A 1979 science fiction horror film directed by Ridley Scott."
+  },
+  {
+    "Brand": "Universal Pictures",
+    "ProductName": "E.T. the Extra-Terrestrial",
+    "GraphicName": "et.jpg",
+    "CostPrice": 12.99,
+    "MSRP": 24.99,
+    "QtyOnHand": 210,
+    "QtyOnBackOrder": 20,
+    "Description": "A 1982 American science fiction film produced and directed by Steven Spielberg."
+  },
+  {
+    "Brand": "Columbia Pictures",
+    "ProductName": "Ghostbusters",
+    "GraphicName": "ghostbusters.jpg",
+    "CostPrice": 13.99,
+    "MSRP": 26.99,
+    "QtyOnHand": 140,
+    "QtyOnBackOrder": 25,
+    "Description": "A 1984 American supernatural comedy film directed by Ivan Reitman."
+  },
+  {
+    "Brand": "Paramount Pictures",
+    "ProductName": "Top Gun",
+    "GraphicName": "top_gun.jpg",
+    "CostPrice": 17.99,
+    "MSRP": 32.99,
+    "QtyOnHand": 170,
+    "QtyOnBackOrder": 30,
+    "Description": "A 1986 American action drama film directed by Tony Scott."
+  },
+  {
+    "Brand": "Warner Bros",
+    "ProductName": "Hackers",
+    "GraphicName": "hackers.jpg",
+    "CostPrice": 11.99,
+    "MSRP": 21.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 5,
+    "Description": "A 1995 American crime thriller film directed by Iain Softley."
+  },
+  {
+    "Brand": "20th Century Fox",
+    "ProductName": "Die Hard",
+    "GraphicName": "die_hard.jpg",
+    "CostPrice": 14.99,
+    "MSRP": 28.99,
+    "QtyOnHand": 130,
+    "QtyOnBackOrder": 18,
+    "Description": "A 1988 American action film directed by John McTiernan."
+  },
+  {
+    "Brand": "Universal Pictures",
+    "ProductName": "Back to the Future",
+    "GraphicName": "back_to_the_future.jpg",
+    "CostPrice": 13.49,
+    "MSRP": 25.99,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 12,
+    "Description": "A 1985 American science fiction film directed by Robert Zemeckis."
+  },
+  {
+    "Brand": "Columbia Pictures",
+    "ProductName": "Men in Black",
+    "GraphicName": "men_in_black.jpg",
+    "CostPrice": 12.99,
+    "MSRP": 23.99,
+    "QtyOnHand": 180,
+    "QtyOnBackOrder": 20,
+    "Description": "A 1997 American science fiction action comedy film directed by Barry Sonnenfeld."
+  },
+  {
+    "Brand": "Paramount Pictures",
+    "ProductName": "Titanic",
+    "GraphicName": "titanic.jpg",
+    "CostPrice": 19.49,
+    "MSRP": 37.99,
+    "QtyOnHand": 220,
+    "QtyOnBackOrder": 35,
+    "Description": "A 1997 American epic romance and disaster film directed by James Cameron."
   }
 ]
