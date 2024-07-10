@@ -1,94 +1,72 @@
-{
-  "Brands": [
-    {
-      "Name": "Paramount Pictures"
-    },
-    {
-      "Name": "Warner Bros"
-    },
-    {
-      "Name": "20th Century Fox"
-    },
-    {
-      "Name": "Universal Pictures"
-    },
-    {
-      "Name": "Columbia Pictures"
-    },
-    {
-      "Name": "Tristar Pictures"
-    }
-  ],
-  "Products": [
-    {
-      "BrandID": 1,
-      "ProductName": "Interstellar",
-      "GraphicName": "interstellar.jpg",
-      "CostPrice": 15.99,
-      "MSRP": 29.99,
-      "QtyOnHand": 150,
-      "QtyOnBackOrder": 10,
-      "Description": "A science fiction film directed by Christopher Nolan, featuring explorations of space and time."
-    },
-    {
-      "BrandID": 1,
-      "ProductName": "Forrest Gump",
-      "GraphicName": "forrest_gump.jpg",
-      "CostPrice": 13.99,
-      "MSRP": 25.99,
-      "QtyOnHand": 100,
-      "QtyOnBackOrder": 0,
-      "Description": "An epic romantic drama based on the 1986 novel by Winston Groom."
-    },
-    {
-      "BrandID": 2,
-      "ProductName": "Inception",
-      "GraphicName": "inception.jpg",
-      "CostPrice": 14.99,
-      "MSRP": 28.99,
-      "QtyOnHand": 200,
-      "QtyOnBackOrder": 20,
-      "Description": "A 2010 science fiction action film written, directed, and produced by Christopher Nolan."
-    },
-    {
-      "BrandID": 2,
-      "ProductName": "The Dark Knight",
-      "GraphicName": "the_dark_knight.jpg",
-      "CostPrice": 16.99,
-      "MSRP": 31.99,
-      "QtyOnHand": 175,
-      "QtyOnBackOrder": 15,
-      "Description": "A 2008 superhero film directed by Christopher Nolan featuring Batman."
-    },
-    {
-      "BrandID": 3,
-      "ProductName": "Avatar",
-      "GraphicName": "avatar.jpg",
-      "CostPrice": 18.99,
-      "MSRP": 33.99,
-      "QtyOnHand": 220,
-      "QtyOnBackOrder": 30,
-      "Description": "A 2009 epic science fiction film directed by James Cameron, set in the mid-22nd century on Pandora."
-    },
-    {
-      "BrandID": 4,
-      "ProductName": "Jurassic Park",
-      "GraphicName": "jurassic_park.jpg",
-      "CostPrice": 14.99,
-      "MSRP": 27.99,
-      "QtyOnHand": 190,
-      "QtyOnBackOrder": 25,
-      "Description": "A 1993 American science fiction adventure film directed by Steven Spielberg."
-    },
-    {
-      "BrandID": 5,
-      "ProductName": "Spider-Man",
-      "GraphicName": "spider_man.jpg",
-      "CostPrice": 17.49,
-      "MSRP": 30.99,
-      "QtyOnHand": 180,
-      "QtyOnBackOrder": 22,
-      "Description": "A 2002 American superhero film directed by Sam Raimi based on the Marvel Comics character of the same name."
-    }
-  ]
-}
+[
+  {
+    "Brand": "Paramount Pictures",
+    "ProductName": "Interstellar",
+    "GraphicName": "interstellar.jpg",
+    "CostPrice": 15.99,
+    "MSRP": 29.99,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 10,
+    "Description": "A science fiction film directed by Christopher Nolan, featuring explorations of space and time."
+  },
+  {
+    "Brand": "Paramount Pictures",
+    "ProductName": "Forrest Gump",
+    "GraphicName": "forrest_gump.jpg",
+    "CostPrice": 13.99,
+    "MSRP": 25.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 0,
+    "Description": "An epic romantic drama based on the 1986 novel by Winston Groom."
+  },
+  {
+    "Brand": "Warner Bros",
+    "ProductName": "Inception",
+    "GraphicName": "inception.jpg",
+    "CostPrice": 14.99,
+    "MSRP": 28.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 20,
+    "Description": "A 2010 science fiction action film written, directed, and produced by Christopher Nolan."
+  },
+  {
+    "Brand": "Warner Bros",
+    "ProductName": "The Dark Knight",
+    "GraphicName": "the_dark_knight.jpg",
+    "CostPrice": 16.99,
+    "MSRP": 31.99,
+    "QtyOnHand": 175,
+    "QtyOnBackOrder": 15,
+    "Description": "A 2008 superhero film directed by Christopher Nolan featuring Batman."
+  },
+  {
+    "Brand": "20th Century Fox",
+    "ProductName": "Avatar",
+    "GraphicName": "avatar.jpg",
+    "CostPrice": 18.99,
+    "MSRP": 33.99,
+    "QtyOnHand": 220,
+    "QtyOnBackOrder": 30,
+    "Description": "A 2009 epic science fiction film directed by James Cameron, set in the mid-22nd century on Pandora."
+  },
+  {
+    "Brand": "Universal Pictures",
+    "ProductName": "Jurassic Park",
+    "GraphicName": "jurassic_park.jpg",
+    "CostPrice": 14.99,
+    "MSRP": 27.99,
+    "QtyOnHand": 190,
+    "QtyOnBackOrder": 25,
+    "Description": "A 1993 American science fiction adventure film directed by Steven Spielberg."
+  },
+  {
+    "Brand": "Columbia Pictures",
+    "ProductName": "Spider-Man",
+    "GraphicName": "spider_man.jpg",
+    "CostPrice": 17.49,
+    "MSRP": 30.99,
+    "QtyOnHand": 180,
+    "QtyOnBackOrder": 22,
+    "Description": "A 2002 American superhero film directed by Sam Raimi based on the Marvel Comics character of the same name."
+  }
+]
